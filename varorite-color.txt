@@ -1,6 +1,7 @@
-My favorite color is Green.
-<<<<<<< HEAD
+// Eh Soe and update color is yellow
+My favorite color is Yellow.
+
 My favourite color is purple.
-=======
+
 My favourite color is White.
->>>>>>> e86b75114ba2bbed153bcdcfa7763bb99d5846dd
+
