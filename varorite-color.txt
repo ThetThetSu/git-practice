@@ -1,6 +1,6 @@
 My favorite color is Green.
-<<<<<<< HEAD
-My favourite color is purple.
-=======
+
+My favourite color is purple by tts.
+
 My favourite color is White.
->>>>>>> e86b75114ba2bbed153bcdcfa7763bb99d5846dd
+
